@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+:root { --bg:#f6f7f9; }
+html, body { background: var(--bg); color:#1f2430; }
+* { box-sizing: border-box; }
